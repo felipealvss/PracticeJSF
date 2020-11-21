@@ -12,7 +12,6 @@ public class Movie {
 	private Integer id;
 	private String name;
 	private String category;
-	//EntityManager em = JPAUtil.createEntityManager();
 	
 	//toString
 	public String toString() {
